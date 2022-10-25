@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div id="portfolio">
-      <h1>Lobus Dev</h1>
+      <h1>LOBUS || DEV</h1>
       <Sidebar/>
       <MainContent/>
     </div>
