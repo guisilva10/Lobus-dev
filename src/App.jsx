@@ -10,7 +10,7 @@ function App() {
       <h1>LOBUS | DEV</h1>
       <Sidebar/>
       <MainContent/>
-      <h1>copyright @ 2022 | Todos os direitos reservados .! </h1>
+      <h2>copyright @ 2022 | Todos os direitos reservados .! </h2>
     </div>
   )
 }
