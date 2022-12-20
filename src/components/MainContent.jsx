@@ -10,6 +10,7 @@ const MainContent = () => {
       <AboutContainer/>
       <TechnologiesContainer/>
       <ProjectsContainer/>
+    <p className='copyright'>&copy; 2022 | Todos os Direitos Reservados!.</p>
   </main>
   )
 }

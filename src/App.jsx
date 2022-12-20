@@ -9,7 +9,6 @@ function App() {
     <div id="portfolio">
       <Sidebar/>
       <MainContent/>
-      <h2>copyright @ 2022 | Todos os direitos reservados .! </h2>
     </div>
   )
 }

@@ -17,7 +17,6 @@ const Sidebar = () => {
     <a href="https://www.linkedin.com/in/guilherme-lopes-24a816232/" className="btn">
       Veja meu Linkedin
     </a>
-    
   </aside>
   )
   
