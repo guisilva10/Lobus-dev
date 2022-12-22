@@ -1,6 +1,5 @@
 
- 
-import Logo from '../img/avatar.png'
+import Logo from '../img/lobus.jpg'
 
 import '../styles/components/sidebar.sass'
 import InformationContainer from './InformationContainer'
@@ -11,7 +10,7 @@ import SocialNetworkContainer from './SocialNetworkContainer'
 const Sidebar = () => {
   return (
   <aside id="sidebar">
-    <img src={Logo} alt="" /> 
+    <img src={Logo} alt="" />
     <p className="title">Desenvolvedor Front-End</p>
     <SocialNetworkContainer/>
     <InformationContainer/>
