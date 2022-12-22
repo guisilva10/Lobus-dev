@@ -1,5 +1,6 @@
 
-import {GiWolfHowl} from 'react-icons/gi'
+ 
+import Logo from '../img/avatar.png'
 
 import '../styles/components/sidebar.sass'
 import InformationContainer from './InformationContainer'
@@ -10,7 +11,7 @@ import SocialNetworkContainer from './SocialNetworkContainer'
 const Sidebar = () => {
   return (
   <aside id="sidebar">
-    <i><GiWolfHowl size={120}/></i>
+    <img src={Logo} alt="" /> 
     <p className="title">Desenvolvedor Front-End</p>
     <SocialNetworkContainer/>
     <InformationContainer/>
